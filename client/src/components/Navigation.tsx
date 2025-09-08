@@ -5,7 +5,7 @@ import { useScrollSpy } from "@/hooks/useScrollSpy";
 const navItems = [
   { href: "#about", label: "About" },
   { href: "#projects", label: "Code" },
-  { href: "#skills", label: "Technical Arsenal" },
+  { href: "#skills", label: "Tech Stack" },
   { href: "#experience", label: "Experience" },
   { href: "#innovation", label: "Innovation" },
   { href: "#beyond", label: "Beyond" },

@@ -33,14 +33,14 @@ const achievements = [
     description: "Certified in Power BI for data analysis, visualization, and business intelligence solutions.",
     color: "bg-primary/20 text-primary"
   },
-  {
-    id: "google-marketing",
-    icon: GraduationCap,
-    title: "Google Digital Marketing",
-    level: "Fundamentals (In Progress)",
-    description: "Currently pursuing certification in digital marketing fundamentals, expected completion in September 2025.",
-    color: "bg-accent/20 text-accent"
-  },
+ {
+  id: "aws-academy-cloud-architecting",
+  icon: GraduationCap,
+  title: "AWS Academy Graduate - Cloud Architecting",
+  level: "Training Badge (Completed)",
+  description: "Completed the AWS Academy Cloud Architecting program with practical experience in designing cloud solutions using AWS services such as S3, DynamoDB, and serverless workflows.",
+  color: "bg-accent/20 text-accent"
+},
   {
     id: "academic",
     icon: Star,

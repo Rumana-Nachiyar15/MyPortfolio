@@ -14,14 +14,14 @@ const skillCategories = [
     skills: [
       { name: "HTML/CSS", level: "Advanced", percentage: 90 },
       { name: "JavaScript", level: "Intermediate", percentage: 75 },
-      { name: "React", level: "Intermediate", percentage: 70 }
+      { name: "React", level: "Beginner", percentage: 30 }
     ]
   },
   {
     title: "Frameworks",
     skills: [
       { name: "Flask", level: "Beginner", percentage: 50 },
-      { name: "Flutter", level: "Beginner", percentage: 45 },
+      { name: "Flutter", level: "Intermediate", percentage: 80 },
       { name: "MySQL", level: "Intermediate", percentage: 75 }
     ]
   },

@@ -7,7 +7,7 @@ export default function About() {
             About <span className="gradient-text">Me</span>
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto" data-testid="about-description">
-            BTech Computer Science student with a passion for software development and data-driven problem solving. 
+            BTech Computer Science and Business Systems student with a passion for software development and data-driven problem solving. 
             Currently pursuing my degree at Ramco Institute of Technology with a CGPA of 8.66.
           </p>
         </div>
@@ -33,7 +33,7 @@ export default function About() {
             <div className="grid grid-cols-2 gap-4">
               <div className="bg-card p-4 rounded-lg border border-border" data-testid="about-education-card">
                 <h4 className="font-semibold text-primary mb-2">Education</h4>
-                <p className="text-sm text-muted-foreground">BTech CSE, Ramco Institute</p>
+                <p className="text-sm text-muted-foreground">BTech CSBS, Ramco Institute</p>
               </div>
               <div className="bg-card p-4 rounded-lg border border-border" data-testid="about-cgpa-card">
                 <h4 className="font-semibold text-primary mb-2">CGPA</h4>
